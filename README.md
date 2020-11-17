@@ -1,2 +1,1 @@
-# news-project
-React project, fetching news using Redux Thunk
+https://49j96.csb.app/ Project Page
